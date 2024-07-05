@@ -7,4 +7,4 @@ Collabo Community resource documentation is live at: [resources.collabocommunity
 
 #
 
-Contribute to project: See [Community and Documenation](https://resources.collabocommunity.com/p/vmg4PL1ozeI435/Community-and-Documentation)
+Contribute to community projects: See [Community and Documenation](https://resources.collabocommunity.com/p/vmg4PL1ozeI435/Community-and-Documentation)
