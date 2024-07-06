@@ -1,5 +1,5 @@
-# @collabo-community/contributor-issue-report
-Issue reports found in this repository are those that have been cleaned up, well defined, and deemed "ready to be worked on" for Collabo Community maintainers and contributors.
+# @collabo-community/product-issue-reports
+Issue reports in this repository are from users and/or contributors of Collabo Community products/projects, mostly through Collabocate GitHubSync integrated in our apps. Users and contributors can also choose to submit issues directly through the issues tab of this repository.
 
 #
 
