@@ -1,10 +1,6 @@
 # @collabo-community/product-issue-reports
-Issue reports in this repository are from users and/or contributors of Collabo Community products/projects, mostly through Collabocate GitHubSync integrated in our apps. Users and contributors can also choose to submit issues directly through the issues tab of this repository.
+Report the issues that you find in any of our projects, or improvement suggestions here through the issues tab of this product-issue-reports repo. Collabocate GitHubSync integrations for any apps/libraries that we build will be linked to this repository.
 
 #
 
-Collabo Community resource documentation is live at: [resources.collabocommunity.com](https://resources.collabocommunity.com)
-
-#
-
-Contribute to community projects: See [Community and Documenation](https://resources.collabocommunity.com/p/vmg4PL1ozeI435/Community-and-Documentation)
+Learn how you can contribute to Collabo Community: [resources.collabo.community](https://resources.collabo.community)
